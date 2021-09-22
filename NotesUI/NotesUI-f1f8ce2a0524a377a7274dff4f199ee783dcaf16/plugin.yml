@@ -6,5 +6,5 @@ api: 3.0.0
 commands:
   notesui:
     description: Sakht Note Baraye Matn Haye Shoma
-    usage: /note 
+    usage: /notesui
     permission: notesui.use
